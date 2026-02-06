@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Mahmoud 👋
 
-<!--
-**mahmoudjijawi-hub/Mahmoudjijawi-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+I am a passionate developer focused on creating clean and responsive web applications. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 My Portfolio
+You can check out my full work and services here:
+👉 **[Visit My Portfolio Site](https://mahmoudjijawi-hub.github.io/Projekt/)**
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** HTML5, CSS3, JavaScript
+- **Tools:** GitHub, VS Code, Responsive Design
+- **Current Project:** Future Digital Company Site
+
+---
+
+### 📫 How to reach me:
+- **Email:** [mahmoudjijawi@gmail.com](mailto:mahmoudjijawi@gmail.com)
+- **LinkedIn:** [Your Profile Link Here]
+
+---
+
+### 📊 GitHub Stats
+![Mahmoud's Stats](https://github-readme-stats.vercel.app/api?username=mahmoudjijawi-hub&show_icons=true&theme=radical)
+
