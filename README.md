@@ -24,5 +24,4 @@ You can check out my full work and services here:
 
 ---
 
-### 📊 GitHub Stats
-![Mahmoud's Stats](https://github-readme-stats.vercel.app/api?username=mahmoudjijawi-hub&show_icons=true&theme=radical&hide_border=false)
+
