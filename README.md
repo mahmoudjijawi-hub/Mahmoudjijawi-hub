@@ -1,7 +1,6 @@
 # Hi there, I'm Mahmoud 👋
 
 ### 🚀 Frontend Developer | Tech Enthusiast
-
 I am a passionate developer focused on creating clean and responsive web applications. 
 
 ---
@@ -21,10 +20,9 @@ You can check out my full work and services here:
 
 ### 📫 How to reach me:
 - **Email:** [mahmoudjijawi@gmail.com](mailto:mahmoudjijawi@gmail.com)
-- **LinkedIn:** [Your Profile Link Here]
+- **LinkedIn:** [ضع رابط حسابك هنا] 👈 *قُم بتبديل هذا النص برابط حسابك الحقيقي*
 
 ---
 
 ### 📊 GitHub Stats
-![Mahmoud's Stats](https://github-readme-stats.vercel.app/api?username=mahmoudjijawi-hub&show_icons=true&theme=radical)
-
+![Mahmoud's Stats](https://github-readme-stats.vercel.app/api?username=mahmoudjijawi-hub&show_icons=true&theme=radical&hide_border=false)
