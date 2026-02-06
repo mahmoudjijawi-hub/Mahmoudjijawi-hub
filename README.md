@@ -20,7 +20,7 @@ You can check out my full work and services here:
 
 ### 📫 How to reach me:
 - **Email:** [mahmoudjijawi@gmail.com](mailto:mahmoudjijawi@gmail.com)
-- **LinkedIn:** [ضع رابط حسابك هنا] 👈 *قُم بتبديل هذا النص برابط حسابك الحقيقي*
+- **LinkedIn:** [   https://www.linkedin.com/in/mahmoud-jijawi-37215a394?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app] 👈 *قُم بتبديل هذا النص برابط حسابك الحقيقي*
 
 ---
 
